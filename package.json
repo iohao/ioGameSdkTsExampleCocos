@@ -1,0 +1,22 @@
+{
+  "name": "ioGameSdkTsExampleCocos",
+  "uuid": "22d6d393-f692-4321-8b29-a392ccf2a570",
+  "author": "iohao_渔民小镇",
+  "license": "AGPL3.0",
+  "description": "ioGame TypeScript SDK; CocosCreator",
+  "creator": {
+    "version": "3.8.4"
+  },
+  "dependencies": {
+    "@bufbuild/protobuf": "^2.2.2",
+    "typescript": "^5.6.3",
+    "iohao-sdk": "^21.0.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@bufbuild/buf": "^1.46.0",
+    "@bufbuild/protoc-gen-es": "^2.2.2",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.2"
+  }
+}
